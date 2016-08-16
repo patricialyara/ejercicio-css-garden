@@ -1,0 +1,88 @@
+body{
+
+	background-color: #BD6747;
+
+}
+
+h1{
+	color: #1C2C41;
+	text-align: center;
+	font-family: Courier;
+	font-weight: bold;
+	font-size: 50px;
+	border-style: outset ;
+	border-radius: 20px; 
+	background: #E1DD69;
+
+
+}
+
+h2{
+
+	color: rgba(41,206,32,0.8);
+	font-family: ;
+}
+
+.summary{
+	color: green;
+	font-weight: bold;
+}
+
+.preamble{
+	background: rgb(206,153,32);
+	font-family: Verdana;
+	width: 400px;
+	border-radius: 10%;
+	padding: 20px;
+	border-style: dotted; 
+	
+
+}
+
+#zen-participation{
+	font-family: Monotype Corsiva;
+	background: #CB90C5; 
+	font-weight: bold;
+	padding: 5px;
+	text-align: justify;
+	border-radius: 50px;
+
+}
+
+.benefits{
+	text-align: center;
+	
+}
+
+.requirements{
+	
+	background: #C4A5C2;
+	font-family: cursive;
+	border-style: dashed;
+	background-image: url("http://fdzeta.com/subir/images/pJXt6.gif");
+	background-repeat: no-repeat;
+	background-position: right top;
+
+}
+
+.design-archives{
+	display: inline-block;
+    width: 25%;
+    margin: 10px; 
+   	vertical-align: top;
+   	border-style: double;
+	border-color: white;
+	padding-bottom: 50px;
+	background: #C4A5C2;
+}
+
+.zen-resources{
+	display: inline-block;
+    width: 55%;
+    vertical-align: top;
+    margin: 10px; 
+    border-style: double;
+	border-color: white;
+	background: #C4A5C2;
+
+}
